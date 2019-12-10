@@ -1,0 +1,104 @@
+= Mangfold i samlingene
+Line Nybakk Akerholt og Dan Michael Heggø, Universitetsbiblioteket i Oslo
+:doctype: book
+:docinfo:
+:icons: font
+:toc: left
+:toc-title: Innholdsfortegnelse
+:toclevels: 3
+:sectlinks:
+
+:leveloffset: +1
+
+Lenker og bakgrunnsinformasjon for prosjekter omtalt på link:poster.pdf[posteren] (PDF, 1.1 MB) presentert på konferansen https://www.uib.no/ub/fagressurser/spesialsamlingene/129101/program-konferansen-spesialsamlinger-i-bibliotekene-2019[_Spesialsamlinger i bibliotekene_ (2019)].
+
+= Hansteens brevsamling
+
+Inngang: https://uio-library.github.io/hansteen-brev/ +
+Prosjektside med dokumentasjon: https://github.com/uio-library/hansteen-brev
+
+Består av rundt 1500 vitenskapelige brev til https://www.ub.uio.no/fag/naturvitenskap-teknologi/astro/hansteen/biografi/[Christopher Hansteen].
+Rundt _halvparten_ av brevene (707 stk.) ble scannet (med noe varierende kvalitet) og registrert i en Oracle-database gjennom et prosjekt på begynnelsen av 2000-tallet, men ble aldri publisert.
+
+I 2018 brukte vi samlingen som https://bibsys-almaprimo.hosted.exlibrisgroup.com/primo-explore/collectionDiscovery?vid=UIO&collectionId=81218451430002204&lang=no_NO[pilotsamling for Alma Digital].
+De originale Oracle-tabellene ble arkivert som CSV-filer i et Git-repo sammen med konverteringsscriptene vi brukte for å konvertere dataene til MARC21, slik at (i) konverteringen enkelt kan gjøres om igjen ved en senere anledning om vi skulle ønske å endre på den og (ii) vi har et enklere utgangspunkt for å konvertere til et eventuelt annet format  i fremtiden om vi skulle gå over til et annet system.
+
+Siden Alma Digital ikke har muligheter for å navigere i samlingen utover enkelt søk lagde vi også en https://uio-library.github.io/hansteen-brev/[enkel presentasjonsside] på GitHub.
+
+== Saturn (Simple Alma Tool for URN management)
+
+Prosjektside med dokumentasjon: https://github.com/scriptotek/saturn +
+Data: https://github.com/scriptotek/saturn-data
+
+Alma har ikke innebygget støtte for å opprette (systemuavhengige) persistente identifikatorer.
+For å bøte på dette lagde vi et enkelt verktøy for å generere URN-er for Alma-poster ved hjelp av NBs URN-API og lagre disse i MARC-postene.
+Gjennom å legge både script, dokumentasjon og tabellen med koblingsnøkler åpent på GitHub _håper_ vi at noen kommer til å finne det og huske på å kjøre en oppdatering en dag i fremtiden når UBO bytter system.
+Siden det innledende Alma Digital-prosjektet ble avsluttet har UBO ikke hatt en formell Alma Digital-gruppe og det er derfor utfordrende å få samlet og organisert dokumentasjon.
+
+= Drogesamlinger
+
+Inngang: https://uio-library.github.io/drogesamlinger/ +
+Prosjektside med (mangelfull) dokumentasjon: https://github.com/uio-library/drogesamlinger
+
+Beskrivelser av to av universitetets drogesamlinger katalogisert i en FileMaker-database på Farmasøytisk institutt, men aldri publisert. Vi har arkivert og dokumentert filene i et Git-repo og konvertert dem til CSV-filer for ettertiden.
+Ikke lagt i Alma Digital siden selve drogene som katalogene beskriver foreløpig ikke er avfotografert.
+En enkel statisk nettside har blitt publisert sammen med dataene på GitHub.
+
+Universitetets eldste drogekatalog, som foreligger i bokform, har blitt hurtigscannet av Museum for Universitetshistorie og https://bibsys-k.userservices.exlibrisgroup.com/view/UniversalViewer/47BIBSYS_UBO/12229760960002204#?c=0&m=0&s=0&cv=3&xywh=-721%2C-106%2C6305%2C3673[publisert i Alma Digital].
+
+= Norske epitafier
+
+Beskrivelser og fotografier av alle epitafier i norske kirker samlet inn ved Teologisk institutt.
+Publisert i bokform, men ønskes også publisert i en søkbar base på nett med høyoppløselige, åpne bilder.
+Planlagt publisert i Alma Digital i 2020.
+
+= Bibliografier i Zotero
+
+== Patrick Geddes’ samling
+
+Forside: https://www.ub.uio.no/fag/naturvitenskap-teknologi/bio/geddes/index.html +
+Zotero-samling: https://www.zotero.org/groups/2244237/patrick_geddes_samling_-_open_version/ +
+Dokumentasjon: "Registrering av Patrick Geddes’ samling – Rapport fra praktikant" (Svein Paulsen, *ikke publisert*)
+
+Består av materiale som Philip Boardman samlet på 1970-tallet for å formidle Patrick Geddes' liv og faglige budskap.
+Samlingen ble registrert og beskrevet i Zotero i 2017 og publisert som en åpen samling.
+Zotero har ikke tilgangsstyring på dokumentnivå.
+Et lite antall poster som ikke kunne publiseres ligger derfor i en egen lukket samling.
+Originaldokumentene er ikke digitalisert.
+
+== Brøgger dagbøker
+
+Zotero: https://www.zotero.org/groups/508717/brgger_dagbker (lukket samling for inviterte brukere)
+
++W. C.+ Brøggers dagbøker ble scannet og registrert i Zotero i 2016–2017.
+Samlingen er foreløpig lukket fordi det er knyttet PDF-vedlegg til postene,
+noe Zotero ikke tillater for åpne samlinger.
+PDF-filene må derfor flyttes til Alma Digital før samlingen kan åpnes.
+
+== Geologiske manuskripter
+
+Zotero: https://www.zotero.org/groups/704502/geologiske_manuskripter (lukket samling for inviterte brukere)
+
+Geologiske manuskripter ble registrert i Zotero (og delvis scannet) i 2016.
+Samlingen er foreløpig lukket fordi det er knyttet PDF-vedlegg til postene,
+noe Zotero ikke tillater for åpne samlinger.
+PDF-filene må eventuelt flyttes til Alma Digital før samlingen kan åpnes.
+
+
+== Ida-samlingen
+
+Zotero: https://www.zotero.org/groups/505119/ida (lukket samling for inviterte brukere)
+
+Samling av materiale (omtale i bøker, norsk og internasjonal presse, debatt, privat korrespondanse, filmer osv.)
+som fulgte etter lanseringen av fossilet Ida i 2009.
+
+Mye opphavsrettsbeskyttet materiale, så samlingen kan ikke åpnes.
+
+= Andre ting vi har snublet over
+
+- https://www.ub.uio.no/fag/naturvitenskap-teknologi/informatikk/faglig/dns/[Ole-Johan Dahl, Kristen Nygaard og SIMULA]: Av/om informatikkpionerene Dahl og Nygaard og utviklingen av SIMULA (bibliografier, biografier, filmer, lydopptak, tekster spredt utover flere steder).
+
+- Informatikkbibliotekets samling av gamle datamaskiner: Ikke beskrevet
+
+- Forskerarkiver, f.eks. etter Rosseland.
+
