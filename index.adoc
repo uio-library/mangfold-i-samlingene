@@ -12,6 +12,8 @@ Line Nybakk Akerholt og Dan Michael Heggø, Universitetsbiblioteket i Oslo
 
 Lenker og bakgrunnsinformasjon for prosjekter omtalt på link:poster.pdf[posteren] (PDF, 1.1 MB) presentert på konferansen https://www.uib.no/ub/fagressurser/spesialsamlingene/129101/program-konferansen-spesialsamlinger-i-bibliotekene-2019[_Spesialsamlinger i bibliotekene_ (2019)].
 
+Kilde for denne siden: https://github.com/uio-library/mangfold-i-samlingene
+
 = Hansteens brevsamling
 
 Inngang: https://uio-library.github.io/hansteen-brev/ +
