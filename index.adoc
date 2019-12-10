@@ -16,30 +16,30 @@ Kilde for denne siden: https://github.com/uio-library/mangfold-i-samlingene
 
 = Hansteens brevsamling
 
-Inngang: https://uio-library.github.io/hansteen-brev/ +
+https://uio-library.github.io/hansteen-brev/ +
 Prosjektside med dokumentasjon: https://github.com/uio-library/hansteen-brev
 
 Består av rundt 1500 vitenskapelige brev til https://www.ub.uio.no/fag/naturvitenskap-teknologi/astro/hansteen/biografi/[Christopher Hansteen].
 Rundt _halvparten_ av brevene (707 stk.) ble scannet (med noe varierende kvalitet) og registrert i en Oracle-database gjennom et prosjekt på begynnelsen av 2000-tallet, men ble aldri publisert.
 
 I 2018 brukte vi samlingen som https://bibsys-almaprimo.hosted.exlibrisgroup.com/primo-explore/collectionDiscovery?vid=UIO&collectionId=81218451430002204&lang=no_NO[pilotsamling for Alma Digital].
-De originale Oracle-tabellene ble arkivert som CSV-filer i et Git-repo sammen med konverteringsscriptene vi brukte for å konvertere dataene til MARC21, slik at (i) konverteringen enkelt kan gjøres om igjen ved en senere anledning om vi skulle ønske å endre på den og (ii) vi har et enklere utgangspunkt for å konvertere til et eventuelt annet format  i fremtiden om vi skulle gå over til et annet system.
+De originale Oracle-tabellene ble arkivert som CSV-filer i et Git-repo sammen med konverteringsscriptene vi brukte for å konvertere dataene til MARC21, slik at (i) konverteringen enkelt kan gjøres om igjen ved en senere anledning om vi skulle ønske å endre på den og (ii) vi har et bedre utgangspunkt for å konvertere til et eventuelt annet format i fremtiden om vi skulle gå over til et annet system.
 
-Siden Alma Digital ikke har muligheter for å navigere i samlingen utover enkelt søk lagde vi også en https://uio-library.github.io/hansteen-brev/[enkel presentasjonsside] på GitHub.
+Siden Alma Digital ikke har muligheter for å navigere i samlingen utover enkelt søk lagde vi også en https://uio-library.github.io/hansteen-brev/[enkel presentasjonsside] for samlingen på GitHub.
 
 == Saturn (Simple Alma Tool for URN management)
 
-Prosjektside med dokumentasjon: https://github.com/scriptotek/saturn +
+https://github.com/scriptotek/saturn +
 Data: https://github.com/scriptotek/saturn-data
 
 Alma har ikke innebygget støtte for å opprette (systemuavhengige) persistente identifikatorer.
 For å bøte på dette lagde vi et enkelt verktøy for å generere URN-er for Alma-poster ved hjelp av NBs URN-API og lagre disse i MARC-postene.
 Gjennom å legge både script, dokumentasjon og tabellen med koblingsnøkler åpent på GitHub _håper_ vi at noen kommer til å finne det og huske på å kjøre en oppdatering en dag i fremtiden når UBO bytter system.
-Siden det innledende Alma Digital-prosjektet ble avsluttet har UBO ikke hatt en formell Alma Digital-gruppe og det er derfor utfordrende å få samlet og organisert dokumentasjon.
+Siden det innledende Alma Digital-prosjektet ble avsluttet har UBO ikke hatt en formell Alma Digital-gruppe og heller ikke et offisielt sted for å samle og sikre dokumentasjon.
 
 = Drogesamlinger
 
-Inngang: https://uio-library.github.io/drogesamlinger/ +
+https://uio-library.github.io/drogesamlinger/ +
 Prosjektside med (mangelfull) dokumentasjon: https://github.com/uio-library/drogesamlinger
 
 Beskrivelser av to av universitetets drogesamlinger katalogisert i en FileMaker-database på Farmasøytisk institutt, men aldri publisert. Vi har arkivert og dokumentert filene i et Git-repo og konvertert dem til CSV-filer for ettertiden.
@@ -58,19 +58,18 @@ Planlagt publisert i Alma Digital i 2020.
 
 == Patrick Geddes’ samling
 
-Forside: https://www.ub.uio.no/fag/naturvitenskap-teknologi/bio/geddes/index.html +
+https://www.ub.uio.no/fag/naturvitenskap-teknologi/bio/geddes/ +
 Zotero-samling: https://www.zotero.org/groups/2244237/patrick_geddes_samling_-_open_version/ +
 Dokumentasjon: "Registrering av Patrick Geddes’ samling – Rapport fra praktikant" (Svein Paulsen, *ikke publisert*)
 
-Består av materiale som Philip Boardman samlet på 1970-tallet for å formidle Patrick Geddes' liv og faglige budskap.
+Materiale samlet av Philip Boardman på 1970-tallet for å formidle Patrick Geddes' liv og faglige budskap.
 Samlingen ble registrert og beskrevet i Zotero i 2017 og publisert som en åpen samling.
-Zotero har ikke tilgangsstyring på dokumentnivå.
-Et lite antall poster som ikke kunne publiseres ligger derfor i en egen lukket samling.
+Zotero har ikke tilgangsstyring på postnivå, et lite antall poster som ikke kunne publiseres ligger derfor i en egen lukket samling.
 Originaldokumentene er ikke digitalisert.
 
 == Brøgger dagbøker
 
-Zotero: https://www.zotero.org/groups/508717/brgger_dagbker (lukket samling for inviterte brukere)
+https://www.zotero.org/groups/508717/brgger_dagbker (lukket samling for inviterte brukere)
 
 +W. C.+ Brøggers dagbøker ble scannet og registrert i Zotero i 2016–2017.
 Samlingen er foreløpig lukket fordi det er knyttet PDF-vedlegg til postene,
@@ -79,7 +78,7 @@ PDF-filene må derfor flyttes til Alma Digital før samlingen kan åpnes.
 
 == Geologiske manuskripter
 
-Zotero: https://www.zotero.org/groups/704502/geologiske_manuskripter (lukket samling for inviterte brukere)
+https://www.zotero.org/groups/704502/geologiske_manuskripter (lukket samling for inviterte brukere)
 
 Geologiske manuskripter ble registrert i Zotero (og delvis scannet) i 2016.
 Samlingen er foreløpig lukket fordi det er knyttet PDF-vedlegg til postene,
@@ -96,11 +95,11 @@ som fulgte etter lanseringen av fossilet Ida i 2009.
 
 Mye opphavsrettsbeskyttet materiale, så samlingen kan ikke åpnes.
 
-= Andre ting vi har snublet over
+= Andre samlinger vi har snublet over
 
 - https://www.ub.uio.no/fag/naturvitenskap-teknologi/informatikk/faglig/dns/[Ole-Johan Dahl, Kristen Nygaard og SIMULA]: Av/om informatikkpionerene Dahl og Nygaard og utviklingen av SIMULA (bibliografier, biografier, filmer, lydopptak, tekster spredt utover flere steder).
 
 - Informatikkbibliotekets samling av gamle datamaskiner: Ikke beskrevet
 
-- Forskerarkiver, f.eks. etter Rosseland.
+- Forskerarkive etter Rosseland.
 
