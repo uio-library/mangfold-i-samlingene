@@ -60,18 +60,18 @@ Planlagt publisert i Alma Digital i 2020.
 
 https://www.ub.uio.no/fag/naturvitenskap-teknologi/bio/geddes/ +
 Zotero-samling: https://www.zotero.org/groups/2244237/patrick_geddes_samling_-_open_version/ +
-Dokumentasjon: "Registrering av Patrick Geddes’ samling – Rapport fra praktikant" (Svein Paulsen, *ikke publisert*)
+Dokumentasjon: "Registrering av Patrick Geddes’ samling – Rapport fra praktikant" (Svein Paulsen, _ikke publisert_)
 
 Materiale samlet av Philip Boardman på 1970-tallet for å formidle Patrick Geddes' liv og faglige budskap.
 Samlingen ble registrert og beskrevet i Zotero i 2017 og publisert som en åpen samling.
 Zotero har ikke tilgangsstyring på postnivå, et lite antall poster som ikke kunne publiseres ligger derfor i en egen lukket samling.
 Originaldokumentene er ikke digitalisert.
 
-== Brøgger dagbøker
+== Brøggers dagbøker
 
 https://www.zotero.org/groups/508717/brgger_dagbker (lukket samling for inviterte brukere)
 
-+W. C.+ Brøggers dagbøker ble scannet og registrert i Zotero i 2016–2017.
++W. C.+ Brøggers dagbøker (157 dokumenter) ble scannet og registrert i Zotero i 2016–2017.
 Samlingen er foreløpig lukket fordi det er knyttet PDF-vedlegg til postene,
 noe Zotero ikke tillater for åpne samlinger.
 PDF-filene må derfor flyttes til Alma Digital før samlingen kan åpnes.
@@ -80,7 +80,7 @@ PDF-filene må derfor flyttes til Alma Digital før samlingen kan åpnes.
 
 https://www.zotero.org/groups/704502/geologiske_manuskripter (lukket samling for inviterte brukere)
 
-Geologiske manuskripter ble registrert i Zotero (og delvis scannet) i 2016.
+Geologiske manuskripter (228 dokumenter) ble registrert i Zotero (og delvis scannet) i 2016.
 Samlingen er foreløpig lukket fordi det er knyttet PDF-vedlegg til postene,
 noe Zotero ikke tillater for åpne samlinger.
 PDF-filene må eventuelt flyttes til Alma Digital før samlingen kan åpnes.
@@ -90,8 +90,7 @@ PDF-filene må eventuelt flyttes til Alma Digital før samlingen kan åpnes.
 
 Zotero: https://www.zotero.org/groups/505119/ida (lukket samling for inviterte brukere)
 
-Samling av materiale (omtale i bøker, norsk og internasjonal presse, debatt, privat korrespondanse, filmer osv.)
-som fulgte etter lanseringen av fossilet Ida i 2009.
+Samling av materiale (464 dokumenter: omtale i bøker, norsk og internasjonal presse, debatt, privat korrespondanse, filmer osv.) publisert som respons på lanseringen av fossilet Ida i 2009.
 
 Mye opphavsrettsbeskyttet materiale, så samlingen kan ikke åpnes.
 
