@@ -57,6 +57,7 @@ Metadata har ikke blitt registrert sentralt, men har ved hjelp av ad-hoc scripts
 
 I Alma Digital-piloten (2018) undersøkte vi muligheten for å https://bibsys-almaprimo.hosted.exlibrisgroup.com/primo-explore/collectionDiscovery?vid=UIO&collectionId=81216307230002204&lang=no_NO[innlemme samlingen i Alma Digital].
 Alma Digital har grunnleggende støtte for video og gir grunnleggende organiseringsmuligheter (arrangementene kan samles i én eller flere samlinger), men vi strevde med å få til en god presentasjon. Arbeidet med importeringsscript stanset opp fordi vi ønsket å bruke Dublin Core i stedet for MARC21, men Alma hadde på daværende tidspunkt ikke støtte for redigerbare Dublin Core-profiler.
+Vi savnet også mulighet for å koble Dublin Core-poster til autoritetsregistre, vi mener det ville vært en stor berikelse om opptakene kunne kobles til personautoritetsregistre (Felles autoritetsregister og Cristin), både for gjenfinning og for bidragsyternes egen del (dokumentasjon av egen formidlingsinnsats).
 
 = Drogesamlinger
 
