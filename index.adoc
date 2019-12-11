@@ -58,8 +58,8 @@ Planlagt publisert i Alma Digital i 2020.
 
 == Patrick Geddes’ samling
 
-https://www.ub.uio.no/fag/naturvitenskap-teknologi/bio/geddes/ +
-Zotero-samling: https://www.zotero.org/groups/2244237/patrick_geddes_samling_-_open_version/ +
+https://www.zotero.org/groups/2244237/ (åpen samling) +
+Beskrivelse: https://www.ub.uio.no/fag/naturvitenskap-teknologi/bio/geddes/ +
 Dokumentasjon: "Registrering av Patrick Geddes’ samling – Rapport fra praktikant" (Svein Paulsen, _ikke publisert_)
 
 Materiale samlet av Philip Boardman på 1970-tallet for å formidle Patrick Geddes' liv og faglige budskap.
@@ -69,7 +69,7 @@ Originaldokumentene er ikke digitalisert.
 
 == Brøggers dagbøker
 
-https://www.zotero.org/groups/508717/brgger_dagbker (lukket samling for inviterte brukere)
+https://www.zotero.org/groups/508717/ (lukket samling for inviterte brukere)
 
 +W. C.+ Brøggers dagbøker (157 dokumenter) ble scannet og registrert i Zotero i 2016–2017.
 Samlingen er foreløpig lukket fordi det er knyttet PDF-vedlegg til postene,
@@ -78,17 +78,16 @@ PDF-filene må derfor flyttes til Alma Digital før samlingen kan åpnes.
 
 == Geologiske manuskripter
 
-https://www.zotero.org/groups/704502/geologiske_manuskripter (lukket samling for inviterte brukere)
+https://www.zotero.org/groups/704502/ (lukket samling for inviterte brukere)
 
 Geologiske manuskripter (228 dokumenter) ble registrert i Zotero (og delvis scannet) i 2016.
 Samlingen er foreløpig lukket fordi det er knyttet PDF-vedlegg til postene,
 noe Zotero ikke tillater for åpne samlinger.
 PDF-filene må eventuelt flyttes til Alma Digital før samlingen kan åpnes.
 
-
 == Ida-samlingen
 
-Zotero: https://www.zotero.org/groups/505119/ida (lukket samling for inviterte brukere)
+https://www.zotero.org/groups/505119/ (lukket samling for inviterte brukere)
 
 Samling av materiale (464 dokumenter: omtale i bøker, norsk og internasjonal presse, debatt, privat korrespondanse, filmer osv.) publisert som respons på lanseringen av fossilet Ida i 2009.
 
