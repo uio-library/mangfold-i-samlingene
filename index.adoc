@@ -62,7 +62,9 @@ Beskrivelser og fotografier av alle epitafier i norske kirker samlet inn ved Teo
 Publisert i bokform, men ønskes også publisert i en søkbar base på nett med høyoppløselige, åpne bilder.
 Planlagt publisert i Alma Digital i 2020.
 
-= Bibliografier i Zotero
+= Samlinger i Zotero
+
+Realfagsbiblioteket har siden 2016 brukt Zotero som verktøy for å registrere spesialsamlinger som det har vært spesiell interesse for hos ulike fagmiljøer.
 
 == Patrick Geddes’ samling
 
