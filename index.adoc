@@ -119,9 +119,9 @@ Mye opphavsrettsbeskyttet materiale, så samlingen kan ikke åpnes.
 
 = Andre samlinger vi har snublet over
 
-- https://www.ub.uio.no/fag/naturvitenskap-teknologi/informatikk/faglig/dns/[Ole-Johan Dahl, Kristen Nygaard og SIMULA]: Av/om informatikkpionerene Dahl og Nygaard og utviklingen av SIMULA (bibliografier, biografier, filmer, lydopptak, tekster spredt utover flere steder).
+- https://www.ub.uio.no/fag/naturvitenskap-teknologi/informatikk/faglig/dns/[Ole-Johan Dahl, Kristen Nygaard og SIMULA]: Av/om informatikkpionerene Dahl og Nygaard og utviklingen av SIMULA: bibliografier, biografier, filmer, lydopptak, tekster spredt utover flere steder.
 
-- Informatikkbibliotekets samling av gamle datamaskiner: Ikke beskrevet
+- Informatikkbibliotekets samling av gamle datamaskiner: Registrert i MUVs gjenstandsbase, men ikke åpent tilgjengelig.
 
-- Forskerarkive etter Rosseland.
+- https://www.arkivportalen.no/entity/no-a1450-01000000006069[Forskerarkivet etter Rosseland]: avlevert til Riksarkivet.
 
