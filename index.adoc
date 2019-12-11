@@ -45,6 +45,19 @@ For å bøte på dette lagde vi et enkelt verktøy for å generere URN-er for Al
 Gjennom å legge både script, dokumentasjon og tabellen med koblingsnøkler åpent på GitHub _håper_ vi at noen kommer til å finne det og huske på å kjøre en oppdatering en dag i fremtiden når UBO bytter system.
 Siden det innledende Alma Digital-prosjektet ble avsluttet har UBO ikke hatt en formell Alma Digital-gruppe og heller ikke et offisielt sted for å samle og sikre dokumentasjon.
 
+= Realfagsbibliotekets arrangementsarkiv
+
+Arkivet: http://ub-media.uio.no/arkiv/ub-live/ +
+Utad: https://www.youtube.com/user/realfagsbiblioteket
+
+Samlingen består av opptak av vitenskapsformidling, debatter og andre https://www.ub.uio.no/bibliotekene/ureal/ureal/aktiviteter.html[arrangementer] fra Realfagsbibliotekets scene og andre steder.
+Inkluderer både råopptak fra flere kilder og bearbeidet/klippet materiale, samt tilknyttet materiale som plakater.
+
+Metadata har ikke blitt registrert sentralt, men har ved hjelp av ad-hoc scripts (Blekkio) blitt samlet inn fra arrangementsbeskrivelsessider på uio.no og fra YouTube (vår _foreløpig_ primære publiseringsplattform for video).
+
+I Alma Digital-piloten (2018) undersøkte vi muligheten for å https://bibsys-almaprimo.hosted.exlibrisgroup.com/primo-explore/collectionDiscovery?vid=UIO&collectionId=81216307230002204&lang=no_NO[innlemme samlingen i Alma Digital].
+Alma Digital har grunnleggende støtte for video og gir grunnleggende organiseringsmuligheter (arrangementene kan samles i én eller flere samlinger), men vi strevde med å få til en god presentasjon. Arbeidet med importeringsscript stanset opp fordi vi ønsket å bruke Dublin Core i stedet for MARC21, men Alma hadde på daværende tidspunkt ikke støtte for redigerbare Dublin Core-profiler.
+
 = Drogesamlinger
 
 https://uio-library.github.io/drogesamlinger/ +
