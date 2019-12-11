@@ -1,4 +1,4 @@
-= Mangfold i samlingene
+= Mangfold i samlingene – tverrfaglig forskningsstøtte og formidling
 Line Nybakk Akerholt og Dan Michael Heggø, Universitetsbiblioteket i Oslo
 :doctype: book
 :docinfo:
@@ -12,7 +12,15 @@ Line Nybakk Akerholt og Dan Michael Heggø, Universitetsbiblioteket i Oslo
 
 Lenker og bakgrunnsinformasjon for prosjekter omtalt på link:poster.pdf[posteren] (PDF, 1.1 MB) presentert på konferansen https://www.uib.no/ub/fagressurser/spesialsamlingene/129101/program-konferansen-spesialsamlinger-i-bibliotekene-2019[_Spesialsamlinger i bibliotekene_ (2019)].
 
-Kilde for denne siden: https://github.com/uio-library/mangfold-i-samlingene
+Kilde for dette dokumentet: https://github.com/uio-library/mangfold-i-samlingene
+
+.Abstract for posteren
+[%collapsible]
+====
+Siden åpningen av biblioteket i 2012 har Realfagsbiblioteket vektlagt formidling og vitenskapelige foredrag for å etablere biblioteket som en arena for vitenskapelig debatt og åpenhet. Med vår tidligere erfaring som drivere av små instituttbibliotek og nære relasjon til samlinger og fag, var det nå som en større, tverrfaglig enhet, lettere å komme i kontakt med andre miljøer på UiO som også samler og formidler. Det viser seg at vi og flere av våre samarbeidspartnere mangler rammeverk for dette arbeidet. De store databasene til boksamlingene og gjenstandssamlingene egner seg ikke for de mindre samlingene som oppstår, der forskere over tid har tilpasset strukturen og metadata til sin egen forskning og undervisning. Spesialsamlingene, slik vi nå kjenner dem, lever sitt eget liv mellom bokbaser, administrative arkiver, forskningsdata, museumsbaser og formidlingsprosjekter på webservere.
+
+Da Alma-digital dukket opp som en mulighet for å registrere metadata og digitale representasjoner for materiale utover bokformatet, ønsket vi å teste ut dette også for spesialsamlinger. I 2018-2019 gjennomførte vi flere prosjekter, hvorav noen av samlingene lot seg modellere via marc eller dublin core, mens andre fortsatt byr på utfordringer. Målet vårt er å øke forståelsen og kunnskapen om metadata for ulike typer samlinger slik at man i fremtiden kan utnytte autoritetsregistre og identifikatorer tilknyttet de etablerte basene i arbeidet med spesialsamlingene, og dermed styrke formidling, forskningsstøtte og langtidslagring av viktige ressurser.
+====
 
 = Hansteens brevsamling
 
