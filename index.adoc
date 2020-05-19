@@ -82,13 +82,18 @@ Realfagsbiblioteket har siden 2016 brukt Zotero som verktøy for å registrere s
 
 == Patrick Geddes’ samling
 
-https://www.zotero.org/groups/2244237/ (åpen samling) +
+https://www.zotero.org/groups/892331/ (åpen samling, innlogging for tilgang til vedlegg) +
 Beskrivelse: https://www.ub.uio.no/fag/naturvitenskap-teknologi/bio/geddes/ +
-Dokumentasjon: "Registrering av Patrick Geddes’ samling – Rapport fra praktikant" (Svein Paulsen, _ikke publisert_)
+Dokumentasjon: ["Registrering av Patrick Geddes’ samling – Rapport fra praktikant"](https://www.zotero.org/groups/892331/patrick_geddes_samling/items/84T8K9SV) (Svein Paulsen, 2017)
 
-Materiale samlet av Philip Boardman på 1970-tallet for å formidle Patrick Geddes' liv og faglige budskap.
-Samlingen ble registrert og beskrevet i Zotero i 2017 og publisert som en åpen samling.
-Zotero har ikke tilgangsstyring på postnivå, et lite antall poster som ikke kunne publiseres ligger derfor i en egen lukket samling.
+Samlingen består av materiale som Philip Boardman samlet på 1970-tallet i arbeidet med å formidle om  Patrick Geddes' liv og faglige budskap. Dette resulterte blant annet i biografien «The Worlds of Patrick Geddes», utgitt i 1978.
+
+Samlingen ble registrert og beskrevet i Zotero av Svein Paulsen i 2017.
+
+Den består av 700 registreringer, hvorav 66 bøker og 107 småtrykk. Resten er korrespondanse i original, blant annet mellom Boardman og den amerikanske kultur- og byhistorikeren Lewis Mumford, utklipp og notater. I tillegg finnes det mye materiale fra Geddes-utstillinger som Boardman arrangerte i inn- og utland.
+
+Realfagsbiblioteket sørger for permanent og sikker oppbevaring av samlingen, og skal gjøre den tilgjengelig for interesserte. Samlingen kan lånes ut til ansvarlige institusjoner for kortere perioder etter avtale med legatets fagkomité, eller besøkes etter avtale med Realfagsbiblioteket. 
+
 Originaldokumentene er ikke digitalisert.
 
 == Brøggers dagbøker
