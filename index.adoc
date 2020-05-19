@@ -84,7 +84,7 @@ Realfagsbiblioteket har siden 2016 brukt Zotero som verktøy for å registrere s
 
 https://www.zotero.org/groups/892331/ (åpen samling, innlogging for tilgang til vedlegg) +
 Beskrivelse: https://www.ub.uio.no/fag/naturvitenskap-teknologi/bio/geddes/ +
-Dokumentasjon: ["Registrering av Patrick Geddes’ samling – Rapport fra praktikant"](https://www.zotero.org/groups/892331/patrick_geddes_samling/items/84T8K9SV) (Svein Paulsen, 2017)
+Dokumentasjon: https://www.zotero.org/groups/892331/patrick_geddes_samling/items/84T8K9SV["Registrering av Patrick Geddes’ samling – Rapport fra praktikant"] (Svein Paulsen, 2017)
 
 Samlingen består av materiale som Philip Boardman samlet på 1970-tallet i arbeidet med å formidle om  Patrick Geddes' liv og faglige budskap. Dette resulterte blant annet i biografien «The Worlds of Patrick Geddes», utgitt i 1978.
 
