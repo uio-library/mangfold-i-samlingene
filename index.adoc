@@ -109,7 +109,7 @@ PDF-filene må derfor flyttes til Alma Digital før samlingen kan åpnes.
 
 https://www.zotero.org/groups/704502/ (lukket samling for inviterte brukere)
 
-Geologiske manuskripter (228 dokumenter) ble registrert i Zotero (og delvis scannet) i 2016.
+Geologiske manuskripter (228 dokumenter) ble registrert i Zotero av Ole Andreas Hoel i 2016 (og delvis scannet).
 Samlingen er foreløpig lukket fordi det er knyttet PDF-vedlegg til postene,
 noe Zotero ikke tillater for åpne samlinger.
 PDF-filene må eventuelt flyttes til Alma Digital før samlingen kan åpnes.
@@ -119,6 +119,8 @@ PDF-filene må eventuelt flyttes til Alma Digital før samlingen kan åpnes.
 https://www.zotero.org/groups/505119/ (lukket samling for inviterte brukere)
 
 Samling av materiale (464 dokumenter: omtale i bøker, norsk og internasjonal presse, debatt, privat korrespondanse, filmer osv.) publisert som respons på lanseringen av fossilet Ida i 2009.
+
+Samlingen ble registrert og emneindeksert i Zotero av Solveig Sørbø i 2016.
 
 Mye opphavsrettsbeskyttet materiale, så samlingen kan ikke åpnes.
 
